@@ -1,4 +1,4 @@
-# AIHomeLab
+# AIHomeLab - Tommy McLaughlin 8/1/26
 Creation of a self-hosted, automated, and reproducible local AI environment
 
 Docker: Containers all services (Ollama, a Web UI, etc.) for isolation and easy management.
